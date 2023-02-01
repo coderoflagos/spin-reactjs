@@ -5,7 +5,7 @@ This is a template for building your [React Application](https://reactjs.org/) a
 
 ### Using the template
 
-Firstly, you need to install the install the template with the Spin CLI:
+Firstly, you need to install the template with the Spin CLI:
 
 ```
 $ spin templates install --git https://github.com/coderoflagos/spin-reactjs.git
